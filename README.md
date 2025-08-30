@@ -10,17 +10,22 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Isabelly Layssa Santos Araujo
+- Matricula: 894520
+- Proposta de projeto escolhida: Coleções e Itens
+- Breve descrição sobre seu projeto: Galeria de Arte contendo obras de artistas renomados.
 
 
 ## Print do(s) wireframe(s) criado
 
 <<  COLOQUE A IMAGEM AQUI >>
 
+![alt text](public/img/Wireframe.png)
 
 ## Print da home-page criada
 
 <<  COLOQUE A IMAGEM AQUI >>
+
+![alt text](public/img/img1.png)
+![alt text](public/img/img2.png)
+![alt text](public/img/img3.png)
